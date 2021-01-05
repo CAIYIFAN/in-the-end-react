@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "alloytouch": "^0.3.0",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "gsap": "^2.0.2",
     "node-sass": "^4.13.1",
     "pixi.js": "^4.8.4",
