@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "alloytouch": "^0.3.0",
     "axios": "^0.17.1",
-    "gsap": "^2.0.2",
+    "gsap": "^3.6.0",
     "node-sass": "^4.13.1",
     "pixi.js": "^4.8.4",
     "react": "^16.13.0",
